@@ -12,7 +12,7 @@ print ('=========================\nWelcome to Ultra Enc X');
 print ('Version:0.3.1 Beta');
 print ('Made by Box Technology\n=========================');
 print ('Loading Files...');
-time.sleep (1);         # wtf?
+time.sleep (1);         # wtf??
 print ('Checking...');
 time.sleep (1);       # wtff!? CEO?
 print ('-------------------------');
