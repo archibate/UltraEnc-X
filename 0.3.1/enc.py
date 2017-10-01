@@ -9,12 +9,12 @@ here = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(here)
 
 print ('=========================\nWelcome to Ultra Enc X');
-print ('Version:0.1.5 Beta');
+print ('Version:0.3.1 Beta');
 print ('Made by Box Technology\n=========================');
 print ('Loading Files...');
-#time.sleep (3);         # wtf?
+time.sleep (1);         # wtf?
 print ('Checking...');
-#time.sleep (1.5);       # wtff!? CEO?
+time.sleep (1);       # wtff!? CEO?
 print ('-------------------------');
 
 from random import randint
@@ -75,8 +75,6 @@ def menu():
                                 print ('Type num 4 will kill and exit UltraEnc X.')
                                 print ('Last,type num 5 to show this text.')
                                 print ('==============================\n')
-                        choice = 'exit'
-                        exit()
                         choice = '0'
 
 
